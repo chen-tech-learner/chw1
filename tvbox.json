@@ -1,9 +1,36 @@
 {
   "spider": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
-  "wallpaper": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/t/",
-  "logo": "https://img2.baidu.com/it/u=2781805231,4129237139&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=1460",
   "sites": [
-  {
+   {
+    "key": "雪乃猫源",
+    "name": "雪乃猫源",
+    "type": 3,
+    "api":  "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
+    "searchable": 1
+   },
+   {
+     "key": "Lmentor猫源",
+     "name": "Lmentor猫源",
+     "type": 3,
+     "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
+     "searchable": 1
+    },
+     {
+    "key": "牛二猫源",
+    "name": "牛二猫源",
+    "type": 3,
+    "api": "https://9280.kstore.vip/cat/index.js",
+    "searchable": 1
+   },
+   {
+    "key": "4TV解析",
+    "name": "4TV解析",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
+    "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
+    "searchable": 1
+    },
+    {
       "key": "豆瓣",
       "name": "豆瓣热播┃点此切换数据源",
       "type": 3,
