@@ -1,16 +1,34 @@
 {
   "sites": [
-    {
-      "key": "cmjh",
-      "name": "公众号【白虾工具】搜集整合",
-      "type": 1,
-      "api": "https://19q.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "✈️TG频道@stymei1"
-      ]
-    },
+      {
+    "key": "豆儿猫源",
+    "name": "豆儿猫源",
+    "type": 3,
+    "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
+    "searchable": 1
+},
+{
+    "key": "牛二猫源",
+    "name": "牛二猫源",
+    "type": 3,
+    "api": "https://9280.kstore.vip/cat/index.js",
+    "searchable": 1
+},
+{
+   "key": "4TV解析",
+    "name": "4TV解析",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
+    "js": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.config.js",
+    "searchable": 1
+  },
+  {
+    "key": "雪乃猫源",
+     "name": "雪乃猫源",
+     "type": 3,
+     "api":  "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
+      "searchable": 1
+   },
     {
       "key": "tgzy",
       "name": "🔞TG资源",
