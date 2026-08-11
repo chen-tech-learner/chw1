@@ -2,28 +2,28 @@
   "spider": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
   "sites": [
    {
-    "key": "雪乃猫源",
+    "key": "cat_xuenai",
     "name": "雪乃猫源",
     "type": 3,
     "api":  "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
     "searchable": 1
    },
    {
-     "key": "Lmentor猫源",
+     "key": "cat_lmentor",
      "name": "Lmentor猫源",
      "type": 3,
      "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
      "searchable": 1
     },
      {
-    "key": "牛二猫源",
+    "key": "cat_niu2",
     "name": "牛二猫源",
     "type": 3,
     "api": "https://9280.kstore.vip/cat/index.js",
     "searchable": 1
    },
    {
-    "key": "4TV解析",
+    "key": "cat_4tv",
     "name": "4TV解析",
     "type": 3,
     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
@@ -31,14 +31,14 @@
     "searchable": 1
     },
     {
-      "key": "豆瓣",
+      "key": "douban",
       "name": "豆瓣热播┃点此切换数据源",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
-      "key":"金牌",
+      "key":"jinpei",
       "name":"🥇金牌｜影视",
       "type":3,
       "api":"csp_Jpys",
@@ -48,7 +48,7 @@
       "ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
-      "key":"农民",
+      "key":"nongming",
       "name":"👩‍🌾农民｜影视",
       "type":3,
       "api":"csp_Wwys",
@@ -58,7 +58,7 @@
       "ext":"https://vip.wwgz.cn:5200/"
     },
     {
-      "key":"骚火",
+      "key":"shaohuo",
       "name":"🔥骚火｜影视",
       "type":3,
       "api":"csp_SaoHuo",
@@ -68,7 +68,7 @@
       "filterable":1,"ext":"https://shdy5.us"
     },
     {
-      "key": "瓜子",
+      "key": "guazi",
       "name": "🍉瓜子｜影视",
       "type": 3,
       "api": "csp_Gz360",
@@ -77,7 +77,7 @@
       "filterable": 1
     },
     {
-      "key": "热播",
+      "key": "erbo",
       "name": "📺热播｜影视",
       "type": 3,
       "api": "csp_AppRJ",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "key": "灵虎",
+      "key": "linghu",
       "name": "🐯灵虎┃影视",
       "type": 3,
       "api": "csp_AppGet",
@@ -103,7 +103,7 @@
       }
     },
     {
-      "key": "哔哩",
+      "key": "bili",
       "name": "🅱️哔哩｜影视",
       "type": 3,
       "api": "csp_Bili",
@@ -112,7 +112,7 @@
       }
     },
     {
-      "key": "奴娜",
+      "key": "nuna",
       "name": "🍭奴娜｜影视",
       "type": 3,
       "api": "csp_AppYsV2",
@@ -122,21 +122,21 @@
       "ext": "https://www.nntv.in/api.php/v1.vod"
     },
     {
-      "key": "永乐",
+      "key": "yongle",
       "name": "🍰永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
     },
     {
-      "key": "小镇",
+      "key": "xiaoxzhen",
       "name": "🏠小镇｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/XZYS.json"
     },
     {
-      "key": "虾仁",
+      "key": "xialen",
       "name": "🦐虾仁｜影视",
       "type": 0,
       "api": "https://lz.118318.xyz/api.php/provide/vod/at/xml",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "key": "量子",
+      "key": "liangzi",
       "name": "🍃量子｜影视",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "key": "非凡",
+      "key": "feifan",
       "name": "🌟非凡｜影视",
       "type": 1,
       "api": "http://ffzy.tv/api.php/provide/vod/",
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "key": "滴滴",
+      "key": "didi",
       "name": "🔞滴滴｜资源",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
@@ -261,21 +261,21 @@
       "jar": "./lib/o.jar"
     },
     {
-      "key": "番号",
+      "key": "fanhao",
       "name": "🔞番号｜资源",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "playerUrl": ""
     },
     {
-      "key": "樂吧",
+      "key": "leba",
       "name": "🔞樂吧｜资源",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod",
       "playerUrl": ""
     },
     {
-      "key": "鲨鱼",
+      "key": "shayu",
       "name": "🔞鲨鱼｜资源",
       "type": 0,
       "searchable": 0,
@@ -293,7 +293,7 @@
       "filterable": 0
     },
     {
-      "key": "91麻豆",
+      "key": "91madou",
       "name": "🔞91麻豆｜资源",
       "type": 1,
       "api": "https://19q.cc/api.php/provide/vod/",
@@ -302,7 +302,7 @@
       "filterable": 0
     },
     {
-      "key": "9号",
+      "key": "9hao",
       "name": "🔞9号｜资源",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
@@ -310,7 +310,7 @@
       "quickSearch": 0
     },
     {
-      "key": "玉兔",
+      "key": "yutu",
       "name": "🔞玉兔｜资源",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "key": "乐播",
+      "key": "lebo",
       "name": "️🔞乐播｜资源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -390,7 +390,7 @@
       ]
     },
     {
-      "key": "大地",
+      "key": "dadi",
       "name": "🔞大地｜资源",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
